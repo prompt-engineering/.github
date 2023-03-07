@@ -9,5 +9,5 @@ our projects：
 
 welcome to join us!
 
-<img src="https://prompt.phodal.com/wechat.jpg" width="256" height="auto" />
+<img src="https://raw.githubusercontent.com/prompt-engineering/click-prompt/master/public/wechat.jpg" width="256" height="auto" />
 
