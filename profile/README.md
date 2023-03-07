@@ -8,5 +8,5 @@ Our projects:
 
 welcome to join us!
 
-<img src="https://raw.githubusercontent.com/prompt-engineering/click-prompt/master/public/wechat.jpg" width="256" height="auto" />
+[![Chat Server](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.gg/FSWXq4DmEj)
 
