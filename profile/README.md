@@ -6,6 +6,7 @@ Our projects:
 - [Prompt Patterns](https://github.com/prompt-engineering/prompt-patterns) (Only Chinese Version for Now） 咒语编写的艺术，Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt 
 - [Understand Prompt](https://github.com/prompt-engineering/understand-prompt) (Only Chinese Version for Now） 理解不同的 Prompt 方式，基于几种 AI 工具：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。 
 - [ChatFlow](https://github.com/prompt-engineering/chat-flow) - personalize your ChatGPT workflows and build the road to automation。ChatFlow —— 打造个性化 ChatGPT 流程，构建自动化之路 
+- [ChatVisualNovel](https://github.com/prompt-engineering/chat-visual-novel) - an endless visual novel powered by ChatGPT. ChatVisualNovel —— 这部视觉小说，由ChatGPT来写，永不结束。
 
 welcome to join us!
 
